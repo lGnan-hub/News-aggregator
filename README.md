@@ -1,7 +1,7 @@
 # Python News Aggregator
 
 ## Overview
-This Python News Aggregator is a web scraping project that gathers news headlines from various sources and presents them in a centralized platform. It utilizes the BeautifulSoup library to extract headline information from different news websites and aggregates them into one location.
+This Python News Aggregator is a web scraping project that gathers news headlines from various sources and presents them in a centralized platform. It utilizes the BeautifulSoup library to extract headline information from different news articles and aggregates them into one document.
 
 ## Features
 - **Web Scraping**: Utilizes BeautifulSoup to scrape news headlines from multiple websites.

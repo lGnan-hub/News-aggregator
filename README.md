@@ -12,6 +12,7 @@ This Python News Aggregator is a web scraping project that gathers news headline
 ## Requirements
 - Python 3.x
 - BeautifulSoup library
+- Docx library
 
 ## Usage
 1. Clone this repository to your local machine.
@@ -21,6 +22,7 @@ This Python News Aggregator is a web scraping project that gathers news headline
 ## Configuration
 - You can customize the list of news sources by editing the `news_sources` variable in the `news_aggregator.py` file.
 - Additional configuration options can be found in the script itself.
+- You can configure any number of sources and dump them into your desired destination.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
